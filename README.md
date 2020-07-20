@@ -8,3 +8,7 @@ This will frame the fundamental tools and norms to work colaboratively in some p
 - Learn to use markdown pad to make markdown files. This should not be too much difficult
 - Make a short manual how to use git from the source tree using Markdown language. That will appear as a git page in your git site. 
 - Feel free to talk to me if you have any confusion 
+## Next step
+- Go theough the bash scripting
+- Apply regex using bash
+- Run python coded in multiple folders
