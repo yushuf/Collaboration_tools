@@ -1,4 +1,5 @@
-### Collaboration_tools
+# Collaboration with Github 
+### Github, Github for Desktop, and Markdown
 This will frame the fundamental tools and norms to work colaboratively in some projects.
 ### Primary needs
 - Open a github account and learn how to start a collaborative project. Projects may be public or private.
